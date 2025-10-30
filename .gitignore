@@ -1,0 +1,46 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Тести та звіти ---
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# --- Віртуальні середовища ---
+.venv/
+venv/
+env/
+ENV/
+Pipfile.lock
+poetry.lock
+
+# --- IDE / редактори ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- Логи, тимчасові файли ---
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+
+# --- Системні ---
+Thumbs.db
+desktop.ini
+
+# --- Дані (якщо не треба комітити) ---
+data/*.csv
+data/*.json
+data/*.xml
+!data/example_*.csv  # якщо хочеш залишити приклади
+
+# --- Деплой або збірки ---
+dist/
+build/
+*.egg-info/
