@@ -1,0 +1,72 @@
+[
+	{
+		"ID": 1,
+		"Name": "Hammer",
+		"Type": "Tool",
+		"Condition": "New",
+		"Amount": 10
+	},
+	{
+		"ID": 2,
+		"Name": "Screwdriver",
+		"Type": "Tool",
+		"Condition": "Used",
+		"Amount": 5
+	},
+	{
+		"ID": 3,
+		"Name": "Nails",
+		"Type": "Hardware",
+		"Condition": "New",
+		"Amount": 100
+	},
+	{
+		"ID": 4,
+		"Name": "Nails",
+		"Type": "Hardware",
+		"Condition": "Rusty",
+		"Amount": 40
+	},
+	{
+		"ID": 5,
+		"Name": "Plank",
+		"Type": "Wood",
+		"Condition": "New",
+		"Amount": 20
+	},
+	{
+		"ID": 6,
+		"Name": "Drill",
+		"Type": "Tool",
+		"Condition": "Used",
+		"Amount": 8
+	},
+	{
+		"ID": 7,
+		"Name": "Paint",
+		"Type": "Material",
+		"Condition": "Opened",
+		"Amount": 12
+	},
+	{
+		"ID": 8,
+		"Name": "Brush",
+		"Type": "Material",
+		"Condition": "New",
+		"Amount": 15
+	},
+	{
+		"ID": 9,
+		"Name": "Saw",
+		"Type": "Tool",
+		"Condition": "Broken",
+		"Amount": 3
+	},
+	{
+		"ID": 10,
+		"Name": "Glue",
+		"Type": "Material",
+		"Condition": "New",
+		"Amount": 25
+	}
+]

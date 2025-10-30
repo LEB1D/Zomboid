@@ -1,0 +1,11 @@
+ID,Name,Type,Condition,Amount
+1,Hammer,Tool,New,10
+2,Screwdriver,Tool,Used,5
+3,Nails,Hardware,New,100
+4,Nails,Hardware,Rusty,40
+5,Plank,Wood,New,20
+6,Drill,Tool,Used,8
+7,Paint,Material,Opened,12
+8,Brush,Material,New,15
+9,Saw,Tool,Broken,3
+10,Glue,Material,New,25
